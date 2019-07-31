@@ -2,7 +2,7 @@
   "name": "list-grid",
   "namespace": "Luffy",
   "label": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "网格列表",
   "private": true,
   "keywords": [],
@@ -18,6 +18,10 @@
   "dependencies": {
     "element-ui": "2.4.6",
     "vue": "^2.5.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godspencomponent/list-grid.git"
   },
   "devDependencies": {
     "autoprefixer": "^9.0.1",
