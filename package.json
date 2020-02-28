@@ -1,7 +1,6 @@
 {
   "name": "list-grid",
-  "namespace": "Luffy",
-  "label": "",
+  "label": "网格列表",
   "version": "1.0.2",
   "description": "网格列表",
   "private": true,
